@@ -1,0 +1,4 @@
+# Optional dependency: enables a calendar-picker widget for the Due Date
+# field. If not installed, the app falls back to a text field pre-filled
+# with today's date and a "Today" reset button -- no functionality is lost.
+tkcalendar
