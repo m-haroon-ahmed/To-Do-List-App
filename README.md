@@ -4,7 +4,7 @@ A desktop To-Do List application built with **Python**, **Tkinter**, and **JSON*
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
+
 
 ---
 
